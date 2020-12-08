@@ -18,4 +18,4 @@ cd FaceMaskDetection
 Run DetectMaskInVideo.py by typing the following command on your Command Prompt:
 python DetectMaskInVideo.py
 
-[Alt text](/sagarnibandhe/InternProjects/blob/main/FaceMaskDetection/No%30mask.png?raw=true "No mask")
+(/sagarnibandhe/InternProjects/blob/main/FaceMaskDetection/No%30mask.png?raw=true "No mask")
