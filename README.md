@@ -2,7 +2,7 @@
 Face mask Detector: Real time face-mask detection using Deep Learning and OpenCV
 
 # Dataset
-The data used can be downloaded through this link or can be downloaded from this repository as well (folders 'test' and 'train'). There are 1314 training images and 194 test images divided into two catgories, with and without mask.
+The data used can be downloaded through this link https://www.kaggle.com/omkargurav/face-mask-dataset or can be downloaded from this repository as well (folders 'with_mask' and 'without_mask'). 
 
 # How to Use
 To use this project on your system, follow these steps:
