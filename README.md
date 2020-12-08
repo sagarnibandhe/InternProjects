@@ -16,6 +16,7 @@ followed by:
 cd FaceMaskDetection
 
 Run DetectMaskInVideo.py by typing the following command on your Command Prompt:
+
 python DetectMaskInVideo.py
 
 
