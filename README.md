@@ -18,4 +18,4 @@ cd FaceMaskDetection
 Run DetectMaskInVideo.py by typing the following command on your Command Prompt:
 python DetectMaskInVideo.py
 
-https://github.com/sagarnibandhe/InternProjects/blob/main/FaceMaskDetection/No%20mask.png
+
