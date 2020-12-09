@@ -7,4 +7,5 @@ The data used can be downloaded through this link https://www.kaggle.com/omkargu
 ![No mask](https://user-images.githubusercontent.com/15236517/101670609-605d6f80-3a21-11eb-8026-355d0cfd10a6.png)
 ![With Mask](https://user-images.githubusercontent.com/15236517/101670617-63586000-3a21-11eb-9c20-bd4ef7b9829c.png)
 
+# Video:
 [![FaceMaskDetection](https://img.youtube.com/vi/E9NNBTYL318/)](https://www.youtube.com/watch?v=E9NNBTYL318)
