@@ -7,16 +7,8 @@ The data used can be downloaded through this link https://www.kaggle.com/omkargu
 # How to Use
 To use this project on your system, follow these steps:
 
-1.Clone this repository onto your system by typing the following command on your Command Prompt:
+![No mask](https://user-images.githubusercontent.com/15236517/101670609-605d6f80-3a21-11eb-8026-355d0cfd10a6.png)
+![With Mask](https://user-images.githubusercontent.com/15236517/101670617-63586000-3a21-11eb-9c20-bd4ef7b9829c.png)
 
-git clone https://github.com/sagarnibandhe/InternProjects.git
-
-followed by:
-
-cd FaceMaskDetection
-
-Run DetectMaskInVideo.py by typing the following command on your Command Prompt:
-
-python DetectMaskInVideo.py
 
 
